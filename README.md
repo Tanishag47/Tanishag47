@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tanishag47
-- 📚 ASU FullStack Dev Student
+- 📚 ASU Full Stack Dev Student
 - 👾 I’m currently learning Python
 - 💞️ Baby Dev
 - 📫 Loading...
