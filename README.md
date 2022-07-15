@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tanishag47
 - 📚 ASU Full Stack Dev Student
-- 👾 I’m currently learning Python
-- 💞️ Baby Dev
+- 👾 I’m currently learning HTML, CSS, JAVASCRIPT
+- 💞️ Aspiring Front-end developer
 - 📫 Loading...
 
 <!---
