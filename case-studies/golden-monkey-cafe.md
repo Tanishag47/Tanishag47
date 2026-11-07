@@ -3,6 +3,7 @@
 **GIT 480 Capstone Project | Front-End Web Development**  
 
 <img src="../assets/website-screenshots/gmc_hero_nav.png" alt="GMC Hero Navigation" width="100%">
+<p><em></em></p>
 
 
 <h2>Objective</h2>
@@ -38,3 +39,37 @@ Through this project, I strengthened my skills in HTML, CSS, JavaScript, jQuery,
 </p>
 
 <h2>Project Photos</h2>
+
+<img src="../assets/website-screenshots/gmc_googleapi_json_reviews.png" alt="GMC Hero Navigation" width="100%">
+<p><em></em></p>
+
+<img src="../assets/website-screenshots/gmc_menu.png" alt="GMC Hero Navigation" width="100%">
+<p><em></em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
