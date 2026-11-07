@@ -34,18 +34,15 @@ This project strengthened my front-end development skills while further developi
 </p>
 
 <h2>Project Photos</h2>
-<div>
-  <img src="../assets/website-screenshots/db_jquery_tabs.png" alt="DB jquery tabs feature" width="49%">
-  <p><em>Tabbed Content Layout: Leveraged jQuery to create a responsive, tabbed interface for browsing Boston attractions by category./em></p>
-</div>
 
+<img src="../assets/website-screenshots/db_jquery_tabs.png" alt="DB jquery tabs feature" width="49%">
+<p><em>Tabbed Content Layout - Leveraged jQuery to create a responsive, tabbed interface for browsing Boston attractions by category./em></p>
 
 <img src="../assets/website-screenshots/db_ticketmaster_api.png" alt="DB jquery tabs feature" width="49%">
-<p><em>Live Event Integration: Leveraging the Ticketmaster API to stream real-time event and attraction data for the Boston area.
-</em></p>
+<p><em>Live Event Integration - Leveraging the Ticketmaster API to stream real-time event and attraction data for the Boston area.</em></p>
 
 <img src="../assets/website-screenshots/db_tripplanner_webstorage.png" alt="DB trip planner made with Javascript webstorage" width="49%">
-<p><em>Local Data Persistence: Utilized the Web Storage API (LocalStorage) to securely save trip plans locally, ensuring user schedules remain intact upon re-visiting the application.</em></p>
+<p><em>Local Data Persistence - Utilized the Web Storage API (LocalStorage) to securely save trip plans locally, ensuring user schedules remain intact upon re-visiting the application.</em></p>
 
 <img src="../assets/website-screenshots/db_jqueryslick.png" alt="DB slick gallery" width="49%">
 <p><em>jQuery & Slick Carousel — Utilizing Slick's Center Mode feature to create an interactive image gallery.</em></p>
