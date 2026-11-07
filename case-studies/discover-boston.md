@@ -2,6 +2,9 @@
 
 **GIT 418 Final Project | Front-End Web Development**  
 
+<img src="../assets/website-screenshots/db_hero.png" alt="DB Hero Navigation" width="100%">
+<p><em></em></p>
+
 <h2>Objective</h2>
 <p>
 The objective of this project was to design and develop a responsive tourism website that introduces visitors to Boston's attractions, popular destinations, history, and local culture. The goal was to create a centralized resource where tourists could explore what the city has to offer, discover places to visit, and find local events and experiences.
