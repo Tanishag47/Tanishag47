@@ -10,7 +10,7 @@
 
 Hi! I'm Tanisha. Currently graduating from the Ira A. Fulton Schools of Engineering - Arizona state university with a BS in Full-Stack Development. Combining creativity, design and technology in the front-end development world. I also have a background in film and photography. Transferring my creative eye to a technical space. 
 
-***
+
 
 <h2>🔧 Tech Stack</h2>
 
@@ -24,7 +24,6 @@ Hi! I'm Tanisha. Currently graduating from the Ira A. Fulton Schools of Engineer
 - Git & Github
 
 
-***
 
 <h2>🚀 Featured Projects</h2>
 
@@ -38,7 +37,6 @@ Built with: HTML, CSS, JavaScript, jQuery UI and Ticketmaster API.
 - <a href="https://tanishag47.github.io/LEGAL-SEAFOODS-CHALLENGE---RECREATION-WEBSITE/#formValid" target="_blank"> Legal Sea Foods – Recreation</a>: Designed a restaurant website concept for Legal Sea Foods, highlighting the brand's identity, history and popular dishes. Applied HTML and CSS to create a structured, responsive and user-friendly website experience. Incorporated visual design elements, typography, imagery and consistent styling to strengthen the site's presentation and usability.
 
 
-***
 
 <h2>🧠 What I'm Learning Now</h2>
 
@@ -47,12 +45,10 @@ Built with: HTML, CSS, JavaScript, jQuery UI and Ticketmaster API.
 - Working with frameworks and libraries such as Bootstrap, tailwind CSS, Vue.js and React
 - Working towards becoming a full-stack web developer
 
-***
 
 <h2>🌐 Check Out My Portfolio</h2>
  👉 (Portfolio link)
  
-***
 
 <h2>📩 Connect With Me</h2>
 
