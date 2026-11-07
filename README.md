@@ -17,9 +17,9 @@
   
   <p>Hi! I'm Tanisha. I'm currently graduating from the Ira A. Fulton Schools of Engineering - Arizona state university with a BS in Full-Stack Development. Combining creativity, design and technology in the front-end development world. I also have a background in film and photography. Transferring my creative eye to a technical space.</p> 
   
-  
-  <br>
-  <h2 id="tech-stack">🛠️ Tech Stack</h2>
+  <a id="tech-stack"></a>
+  <br><br>
+  <h2>🛠️ Tech Stack</h2>
   
   - HTML
   - CSS
