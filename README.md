@@ -12,13 +12,13 @@
 </div>
   
   <a id="about-me"></a>
-  <br>
+
   <h2>👋 About Me</h2>
   
   <p>Hi! I'm Tanisha. I'm currently graduating from the Ira A. Fulton Schools of Engineering - Arizona state university with a BS in Full-Stack Development. Combining creativity, design and technology in the front-end development world. I also have a background in film and photography. Transferring my creative eye to a technical space.</p> 
   
   <a id="tech-stack"></a>
-  <br>
+
   <h2>🛠️ Tech Stack</h2>
   
   - HTML
@@ -32,7 +32,7 @@
   
   
   <a id="featured-projects"></a>
-  <br>
+
   <h2>🚀 Featured Projects</h2>
   
   - <a href="https://tanishag47.github.io/Golden-Monkey-Restaurant-Website---ASU-Capstone-Project/" target="_blank">The Golden Monkey Cafe - Restaurant website</a>: Website created for an authentic Cambodian restaurant in Lynn, MA. Features include an in-app menu, image gallery, interactive homepage carousel, Google Maps integration and responsive design. 
@@ -46,7 +46,7 @@
   
   
   <a id="learning"></a>
-  <br>
+
   <h2>🧠 What I'm Learning Now</h2>
   
   - Improving older projects
@@ -55,12 +55,12 @@
   - Working towards becoming a full-stack web developer
   
   <a id="portfolio-link"></a>
-  <br>
+
   <h2>🌐 Check Out My Portfolio</h2>
    👉 (Portfolio link)
    
   <a id="connect"></a>
-  <br>
+
   <h2>📩 Connect With Me</h2>
   
   👾 github.com/Tanishag47
@@ -70,7 +70,7 @@
   🌐 (Portfolio link)
   
   <a id="fun-facts"></a>
-  <br>
+
   <h2>🏖️ Fun Facts</h2>
   
   - Taught middle school film for 2 years at non-profit after school program
