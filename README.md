@@ -8,7 +8,7 @@
 
 <h2>👋 About Me</h2>
 
-Hi! I'm Tanisha. Currently graduating from Arizona state university with a BS in Full stack web development. Combining creativity, design and technology in the front-end development world. I also have a background in film and photography. Transferring my creative eye to a technical space. 
+Hi! I'm Tanisha. Currently graduating from the Ira A. Fulton Schools of Engineering - Arizona state university with a BS in Full stack web development. Combining creativity, design and technology in the front-end development world. I also have a background in film and photography. Transferring my creative eye to a technical space. 
 
 ***
 
