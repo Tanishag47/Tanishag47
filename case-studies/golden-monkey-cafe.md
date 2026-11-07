@@ -3,7 +3,7 @@
 **GIT 480 Capstone Project | Front-End Web Development**  
 
 <img src="../assets/website-screenshots/gmc_hero_nav.png" alt="GMC Hero Navigation" width="100%">
-<p><em></em></p>
+<p><em>Dynamic Landing Page Experience: Engineered a streamlined homepage layout featuring clean navigation controls and an interactive Slick Carousel display.</em></p>
 
 
 <h2>Objective</h2>
