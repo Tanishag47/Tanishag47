@@ -40,11 +40,12 @@ Through this project, I strengthened my skills in HTML, CSS, JavaScript, jQuery,
 
 <h2>Project Photos</h2>
 
-<img src="../assets/website-screenshots/gmc_googleapi_json_reviews.png" alt="GMC Hero Navigation" width="100%">
-<p><em></em></p>
+<img src="../assets/website-screenshots/gmc_googlemapsapi_json_reviews1.png" alt="GMC Hero Navigation" width="100%">
+<p><em>Dynamic Landing Page Experience: Engineered a streamlined homepage layout featuring clean navigation controls and an interactive Slick Carousel display.</em></p>
 
 <img src="../assets/website-screenshots/gmc_menu.png" alt="GMC Hero Navigation" width="100%">
-<p><em></em></p>
+<p><em>Google Maps & JSON Reviews: Embedded live mapping functionality and custom-structured JSON review data to build credibility and context for users.
+</em></p>
 
 
 
