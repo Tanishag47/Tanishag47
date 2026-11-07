@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-  <img src="assets/README_HEADER.png" width="100%" alt="Tanisha Garner Logo Header">
+  <img src="assets/README HEADER GITHUB FSD.png" width="100%" alt="Tanisha Garner Logo Header">
   </p>
 
   <p align="center">
