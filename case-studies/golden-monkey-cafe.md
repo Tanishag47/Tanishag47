@@ -2,7 +2,8 @@
 
 **GIT 480 Capstone Project | Front-End Web Development**  
 
-<img src="assets/" alt="" width="100%">
+<img src="../assets/website-screenshots/gmc_hero_nav.png" alt="GMC Hero Navigation" width="100%">
+
 
 <h2>Objective</h2>
 <p>
