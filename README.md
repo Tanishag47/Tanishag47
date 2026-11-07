@@ -58,7 +58,6 @@ Built with: HTML, CSS, JavaScript, jQuery UI and Ticketmaster API.
 
 🌐 (Portfolio link)
 
-***
 
 <h2>🏖️ Fun Facts</h2>
 
