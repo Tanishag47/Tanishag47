@@ -3,7 +3,7 @@
 **GIT 418 Final Project | Front-End Web Development**  
 
 <img src="../assets/website-screenshots/db_hero.png" alt="DB Hero Navigation" width="100%">
-<p><em></em></p>
+<p><em>Branded Landing Page Experience: Integrated a distinct brand logo and intuitive navigation system alongside a dynamic JS Slick Carousel to engage incoming users.</em></p>
 
 <h2>Objective</h2>
 <p>
