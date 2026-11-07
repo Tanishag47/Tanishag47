@@ -52,7 +52,6 @@
   - Improving older projects
   - Deepening my understanding of back-end development and APIs
   - Working with frameworks and libraries such as Bootstrap, tailwind CSS, Vue.js and React
-  - Working towards becoming a full-stack web developer
   
   <a id="portfolio-link"></a>
 
