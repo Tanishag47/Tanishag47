@@ -1,6 +1,6 @@
-<h1>Legal Seafoods - Restaurant Website</h1>
+<h1>Discover Boston - Tourism Website</h1>
 
-**GIT 417 Final Project | Front-End Web Development**  
+**GIT  | Front-End Web Development**  
 
 <h2>Objective</h2>
 
