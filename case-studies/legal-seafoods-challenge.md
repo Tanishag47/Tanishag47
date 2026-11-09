@@ -3,7 +3,7 @@
 
 **GIT 417 Final Project | Front-End Web Development**  
 <img src="../assets/website-screenshots/lsf_hero.png" alt="" align="right">
-<p><em>Homepage - </em></p>
+<p><em>Immersive Brand Introduction: Designed a focused homepage layout pairing intuitive navigation with a prominent hero section and an impactful brand slogan.</em></p>
 
 <h2>Objective</h2>
 <p>
@@ -35,7 +35,12 @@ This project further strengthened my ability to translate brand research and des
 
 <h2>Project Photos</h2>
 
-<img src="../assets/website-screenshots/lsf_about.png" alt="">
 <img src="../assets/website-screenshots/lsf_product_switcher.png" alt="">
-<img src="../assets/website-screenshots/lsf_.png" alt="">
+<p><em>JavaScript Product Switcher -  An interactive display allowing users to click through the most popular dishes offered at restaurant locations.</em></p>
+
+<img src="../assets/website-screenshots/lsf_guessing_game.png" alt="">
+<p><em>JavaScript Guessing Game -  Created an interactive guessing game for users to win a free lobster roll.
+</em></p>
 <img src="../assets/website-screenshots/lsf_contact_valid.png" alt="">
+<p><em>Contact form validation -  Ensures users enter complete and correctly formatted information.
+</em></p>
