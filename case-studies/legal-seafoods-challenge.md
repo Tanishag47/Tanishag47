@@ -2,6 +2,8 @@
 <h1>Legal Seafoods (challenge recreation) - Restaurant Website</h1>
 
 **GIT 417 Final Project | Front-End Web Development**  
+<img src="../assets/website-screenshots/lsf_hero.png" alt="" align="right">
+<p><em>Homepage - </em></p>
 
 <h2>Objective</h2>
 <p>
@@ -32,3 +34,8 @@ This project further strengthened my ability to translate brand research and des
 </p>
 
 <h2>Project Photos</h2>
+
+<img src="../assets/website-screenshots/lsf_about.png" alt="">
+<img src="../assets/website-screenshots/lsf_product_switcher.png" alt="">
+<img src="../assets/website-screenshots/lsf_.png" alt="">
+<img src="../assets/website-screenshots/lsf_contact_valid.png" alt="">
