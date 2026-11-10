@@ -33,6 +33,24 @@ The completed project resulted in a responsive tourism website that brings toget
 This project strengthened my front-end development skills while further developing my understanding of responsive design, JavaScript functionality, and user-focused content organization. It also allowed me to bring together creative direction and technical implementation to create a cohesive digital experience.
 </p>
 
+<h2>Future Development Goals</h2>
+
+<p>
+  
+**Interactive U.S. Map:** Develop a clickable map of the United States where users can select a state or city to explore its own DISCOVER destination page.
+
+**City-Specific Websites:** Expand the platform with individual destinations such as DISCOVER NEW YORK, DISCOVER MIAMI, DISCOVER LOS ANGELES, and more.
+
+**Reusable Website Structure:** Build a scalable foundation that allows new city destinations to share a consistent layout, features, and user experience while maintaining their own unique identity.
+
+**Expanded Discovery Categories:** Incorporate more ways to explore each destination, including restaurants, outdoor activities, cultural experiences, shopping, local events, and hidden gems.
+
+**Interactive Features:** Explore additional functionality such as personalized recommendations, saved destinations, and trip-planning tools.
+
+**Long-Term Vision:** Transform DISCOVER into a centralized travel resource where users can explore destinations across the United States, and eventually beyond.
+
+</p>
+
 <h2>Project Photos</h2>
 
 <img src="../assets/website-screenshots/db_jquery_tabs.png" alt="DB jquery tabs feature">
