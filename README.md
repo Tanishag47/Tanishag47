@@ -88,9 +88,9 @@
 
   <h2>📩 Connect With Me</h2>
   
-  👾 github.com/Tanishag47
+  👾 <a href="github.com/Tanishag47">GitHub</a>
   
-  👥 linkedin.com/in/tanishagarner/ 
+  👥 <a href="linkedin.com/in/tanishagarner/">LinkedIn</a>
   
   🌐 (Portfolio link)
   
