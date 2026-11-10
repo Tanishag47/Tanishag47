@@ -15,7 +15,7 @@
 
   <h2>👋 About Me</h2>
   
-  <p> I'm currently studying Full-Stack Web Development at the Ira A. Fulton Schools of Engineering - Arizona State University. Combining creativity, design and technology in the world of full-stack development. I also have a background in film and photography. Transferring my creative eye to a technical space.</p> 
+  <p> I'm currently studying Full-Stack Web Development at the Ira A. Fulton Schools of Engineering - Arizona State University. Combining creativity, design and technology in the world of full-stack development. I also have a background in film and photography. Transferring my creative eye from behind the camera into the digital canvas of full-stack development, ensuring applications are as visually striking as they are technically sound.</p> 
   
   <a id="tech-stack"></a>
 
@@ -76,8 +76,8 @@
   <h2>🧠 What I'm Learning Now</h2>
   
   - Improving older projects
-  - Working with frameworks and libraries such as Bootstrap, tailwind CSS, vue.js, and React
-  - Deepening my understanding of APIs and back-end development tools such as Python, Node.js, Express, MongoDB, and REST APIs
+  - **Modern Frontend Frameworks:** Mastering component architecture and utility-first styling with Bootstrap, Tailwind CSS, vue.js, and React.
+  - **Backend & Database Infrastructure:** Deepening full-stack proficiency by designing scalable REST APIs using Node.js/Express and Python backend ecosystems, integrated with MongoDB and MySQL databases.
   
   <a id="portfolio-link"></a>
 
