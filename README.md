@@ -99,7 +99,7 @@
 
   <h2>🏖️ Fun Facts</h2>
   
-  - Taught middle school film for 2 years at non-profit after school program
+  - Taught middle school film for 2 years at non-profit after school program in Lynn, MA
   - ‘Dying Light 2’ and all of ‘The Last of Us’ games as the greatest games of all time (in my humble opinion)
 
 
