@@ -75,9 +75,12 @@
 
   <h2>🧠 What I'm Learning Now</h2>
   
-  - Improving older projects
+  - **Project Optimization:** Enhancing existing web applications for better performance, mobile responsiveness, and cleaner code architecture.
+  - **Code Refactoring:** Restructuring earlier frontend projects to implement semantic HTML, modular components, and industry-standard clean coding practices.
+  -  **Performance Optimization:** Enhancing web application load speeds, refining image assets, and ensuring seamless mobile responsiveness across diverse devices.
   - **Modern Frontend Frameworks:** Mastering component architecture and utility-first styling with Bootstrap, Tailwind CSS, vue.js, and React.
   - **Backend & Database Infrastructure:** Deepening full-stack proficiency by designing scalable REST APIs using Node.js/Express and Python backend ecosystems, integrated with MongoDB and MySQL databases.
+  - 
   
   <a id="portfolio-link"></a>
 
