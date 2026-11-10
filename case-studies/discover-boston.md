@@ -36,7 +36,7 @@ This project strengthened my front-end development skills while further developi
 <h2>Project Photos</h2>
 
 <img src="../assets/website-screenshots/db_jquery_tabs.png" alt="DB jquery tabs feature">
-<p><em>Tabbed Content Layout - Leveraged jQuery to create a responsive, tabbed interface for browsing Boston attractions by category./em></p>
+<p><em>Tabbed Content Layout - Leveraged jQuery to create a responsive, tabbed interface for browsing Boston attractions by category.<em></p>
 
 <img src="../assets/website-screenshots/db_ticketmaster_api.png" alt="DB jquery tabs feature">
 <p><em>Live Event Integration - Leveraging the Ticketmaster API to stream real-time event and attraction data for the Boston area.</em></p>
