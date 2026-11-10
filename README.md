@@ -34,20 +34,35 @@
   <a id="featured-projects"></a>
 
   <h2>🚀 Featured Projects</h2>
-  <p>
     
-   <a href="https://tanishag47.github.io/Golden-Monkey-Restaurant-Website---ASU-Capstone-Project/" target="_blank">The Golden Monkey Cafe - Restaurant website</a>: Website created for an authentic Cambodian restaurant in Lynn, MA. Features include an in-app menu, image gallery, interactive homepage carousel, Google Maps integration and responsive design. 
-  Built with: HTML, CSS, JavaScript, jQuery and Google Maps API.<br>
+  <p>
+    <a href="https://tanishag47.github.io/Golden-Monkey-Restaurant-Website---ASU-Capstone-Project/" target="_blank">The Golden Monkey Cafe - Restaurant website:</a><br> Website created for an authentic Cambodian restaurant in Lynn, MA. Features include an in-app menu, image gallery, interactive homepage carousel, Google Maps integration and responsive design.<br>
+    
+  <em>**Tech Stack:** HTML5, CSS3, JavaScript, jQuery, and Google Maps API.</em>
+  
+  </p>
 
 <p><a href="case-studies/golden-monkey-cafe.md">Case study</a></p>
-  
-  
-   <a href="https://tanishag47.github.io/-DISCOVER-BOSTON---TOURISM-WEBSITE/" target="_blank"> Discover Boston - Tourism website</a>: Travel destination website showcasing attractions, events, landmarks and nightlife in Boston. Features include an image carousel, interactive tabs, event listings through the Ticketmaster API and a photo gallery. 
-  Built with: HTML, CSS, JavaScript, jQuery UI and Ticketmaster API.<br>
 
- <p><a href="case-studies/discover-boston.md">Case study</a></p>
+  ***
   
-   <a href="https://tanishag47.github.io/LEGAL-SEAFOODS-CHALLENGE---RECREATION-WEBSITE/#formValid" target="_blank"> Legal Sea Foods – Recreation</a>: Designed a restaurant website concept for Legal Sea Foods, highlighting the brand's identity, history and popular dishes. Applied HTML and CSS to create a structured, responsive and user-friendly website experience. Incorporated visual design elements, typography, imagery and consistent styling to strengthen the site's presentation and usability.<br>
+  <p>
+    <a href="https://tanishag47.github.io/-DISCOVER-BOSTON---TOURISM-WEBSITE/" target="_blank"> Discover Boston - Tourism website:</a><br> Travel destination website showcasing attractions, events, landmarks and nightlife in Boston. Features include an image carousel, interactive tabs, event listings through the Ticketmaster API and a photo gallery.<br>
+  
+  <em>**Tech Stack:** HTML5, CSS3, JavaScript, jQuery UI, and Ticketmaster API.</em>
+ 
+  </p> 
+  
+ <p><a href="case-studies/discover-boston.md">Case study</a></p>
+
+***
+  <p>
+    <a href="https://tanishag47.github.io/LEGAL-SEAFOODS-CHALLENGE---RECREATION-WEBSITE/#formValid" target="_blank"> Legal Sea Foods – Recreation:</a><br> Designed a restaurant website concept for Legal Sea Foods, highlighting the brand's identity, history and popular dishes. Applied HTML and CSS to create a structured, responsive and user-friendly website experience. Incorporated visual design elements, typography, imagery and consistent styling to strengthen the site's presentation and usability.<br>
+   
+<em>**Tech Stack:** HTML5, CSS3, and JavaScript.</em>
+  
+  </p>
+   
    
   <p><a href="case-studies/legal-seafoods-challenge.md">Case study</a></p>
   
