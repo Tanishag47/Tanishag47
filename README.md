@@ -42,7 +42,7 @@
   
   </p>
 
-<p><a href="case-studies/golden-monkey-cafe.md">Case study</a></p>
+<p><a href="case-studies/golden-monkey-cafe.md">Case study →</a></p>
 
   ***
   
@@ -53,7 +53,7 @@
  
   </p> 
   
- <p><a href="case-studies/discover-boston.md">Case study</a></p>
+ <p><a href="case-studies/discover-boston.md">Case study →</a></p>
 
 ***
   <p>
@@ -64,7 +64,7 @@
   </p>
    
    
-  <p><a href="case-studies/legal-seafoods-challenge.md">Case study</a></p>
+  <p><a href="case-studies/legal-seafoods-challenge.md">Case study →</a></p>
   
 
     
