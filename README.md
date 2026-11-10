@@ -60,8 +60,8 @@
   <h2>🧠 What I'm Learning Now</h2>
   
   - Improving older projects
-  - Deepening my understanding of back-end development and APIs
-  - Working with frameworks and libraries such as Bootstrap, tailwind CSS, Vue.js and React
+  - Working with frameworks and libraries such as Bootstrap, tailwind CSS, vue.js, and React
+  - Deepening my understanding of APIs and back-end development tools such as Python, Node.js, Express, MongoDB, and REST APIs
   
   <a id="portfolio-link"></a>
 
