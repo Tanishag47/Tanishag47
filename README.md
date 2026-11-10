@@ -21,10 +21,10 @@
 
   <h2>🛠️ Tech Stack</h2>
   
-  - HTML
-  - CSS
+  - HTML5
+  - CSS3
   - JavaScript
-  - jQuery
+  - jQuery/jQuery UI
   - APIs
   - JSON
   - Responsive Web Design
